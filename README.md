@@ -5,7 +5,8 @@ C# wrapper around Zadc.dll for [ZetLab](https://zetlab.com/) devices.
 It was tested only with ZetLab A17U2.
 
 ## Example 
-* Get\set device settings
+![Screenshot](screen.png)
+* Get\set device settings (in code)
 * Work with RAW data
 * Conversion Raw data to voltage
 * Plot Spectrogramm & Oscillogram
