@@ -30,8 +30,7 @@ namespace ZetLabGUI
 
             }
 
-            Model.PlotView.InvalidatePlot(true);
-
+            Model.InvalidatePlot(true);
         }
     }
 }
